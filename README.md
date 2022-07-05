@@ -1,5 +1,5 @@
 # React Al-Qur'an App
-This project is just a learning project for everyone who is learning React for the first time, especially for students at [qodr.or.id](https://qodr.or.id)
+This project is just a learning project for everyone who is learning React for the first time, happy coding :)
 
 ## Technology
 here I use several libraries to help in the developing process.
